@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bertrand.couture@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Test",
+    "uuid": "7cbf1d70-306e-4f28-a1b1-4289d96b25ad",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
